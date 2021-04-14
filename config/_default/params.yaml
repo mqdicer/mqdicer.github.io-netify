@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: dark
 day_night: true
 font: ''
 font_size: L
@@ -144,7 +144,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: '269003026'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
