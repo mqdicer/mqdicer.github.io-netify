@@ -81,6 +81,6 @@ highlight_name: false
 
 I work as a research scientist in the [Human Nature Lab](https://humannaturelab.net), directed by [Nicholas A. Christakis](https://nicholaschristakis.net) at the [Yale Institute for Network Science](https://yins.yale.edu). We study biology of human sociality using network science, population genetics, behavioral experiments, and field randomized controlled trials. 
 
-I study medicine at [Frank H. Netter MD School of Medicine](https://www.qu.edu/schools/medicine/), where I co-founded the [Genomics and Personalized Medicine Interest Group](https://netgene.ghost.io).
+I am also studying to become a physician at the [Frank H. Netter MD School of Medicine](https://www.qu.edu/schools/medicine/), where I co-founded the [Genomics and Personalized Medicine Interest Group](https://netgene.ghost.io).
 
 
